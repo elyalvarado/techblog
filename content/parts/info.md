@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.
+CTO and co-founder of Happy the App. Entrepeneur and Project Manager. Long time Ruby, Javascript and Swift developer and systems administrator with automation background (Dev-Ops).

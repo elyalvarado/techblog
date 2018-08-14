@@ -9,10 +9,10 @@ module.exports = {
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Ely Alvarado",
+  authorTwitterAccount: "elyalvarado",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "Ely Alvarado",
   infoTitleNote: "personal blog",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
@@ -23,8 +23,8 @@ module.exports = {
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/elyalvarado" },
+    { name: "twitter", url: "https://twitter.com/elyalvarado" },
+    { name: "facebook", url: "http://facebook.com/ely.j.alvarado" }
   ]
 };
