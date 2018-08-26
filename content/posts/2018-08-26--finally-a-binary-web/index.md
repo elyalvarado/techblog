@@ -1,6 +1,6 @@
 ---
 title: Finally a Binary Web
-subTitle: A brief and incomplete history of speed on the Web, and how WebAssembly came to be
+subTitle: A brief and incomplete history of how WebAssembly came to be
 category: javascript
 cover: markus-spiske-666905-unsplash.jpg
 ---
@@ -18,7 +18,7 @@ I like looking at the history of things, how they come to be. That is why it is 
 The year was 1995. Microsoft launched a massive marketing campaign for its new revolutionary (for then) operating system _Windows 95_, and _America Online_ and _Prodigy_ started offering access to the World Wide Web for the first time.
 
 <div style='text-align: center'>
-  <img src='./navigator.png' alt='Netscape Navigator 2.0'>
+  <img src='navigator.png' alt='Netscape Navigator 2.0'>
 </div>
 
 At the end of this year, Netscape launched version 2.0 of their browser: Netscape Navigator. This release included multiple improvements and new features, among them 2 technologies that will revolutionize the web and that we're still using nowadays: Javascript, and of course animated GIF's.
@@ -32,19 +32,19 @@ Initially, Javascript was intended to be a 'glue' language, to be used by inform
 As the popularity of the World Wide Web exploded, more than doubling between 1995 and 1996, developers turned to different solutions to take advantage of the platform.
 
 <div style='text-align: center'>
-  <img style='height: 200px' src='./Java.svg' alt='Java'>
+  <img style='height: 200px' src='Java.svg' alt='Java'>
 </div>
 
 Java, publicly launched that same year, promised total portability and targeted the web with their Applets. It is easy now to hate Java Applets as a technology, but for a long time, it was the preferred way to bring application programming to the web in a cross-platform manner.
 
 <div style='text-align: center'>
-  <img src='./ActiveX.png' alt='ActiveX'>
+  <img src='ActiveX.png' alt='ActiveX'>
 </div>
 
 Microsoft, of course, also provided an alternative to Java Applets. By bringing support for ActiveX controls to their Internet Explorer 3.0 (1996) browser they intended to capitalize on Windows developers eagerness to port their code to the Web. ActiveX was hard to secure, and not as portable as Java Applets, but it was very successful in enterprise Intranet applications, and I bet there still are some apps within big enterprises or government corporations that use it and run only on Internet Explorer.
 
 <div style='text-align: center'>
-  <img style='height: 200px' src='./Flash.svg' alt='Flash'>
+  <img style='height: 200px' src='Flash.svg' alt='Flash'>
 </div>
 
 That same year a small company called Macromedia (later acquired by Adobe) released their Flash web plugin, which had great author tools for creating multimedia content. Flash took the web by storm. By 2005 almost 98% of computers had the flash plugin installed[2], and weren't for Steve Jobs stubbornness not to support flash in its iOS platform it might still be in use, instead of HTML5/Javascript.
@@ -54,7 +54,7 @@ That same year a small company called Macromedia (later acquired by Adobe) relea
 Even from the worst ideas, things of value can be rescued. In 1999, while developing their Microsoft Exchange 2000 mail server, the Outlook Web App team developed the ActiveX XML-HTTP Component. The idea was brilliant, opening for the first time the potential to communicate with a server without reloading a web page. It was an idea so powerful that it wasn't long before it was adopted by all browser vendors: by 2002 Mozilla had implemented a version of it into its Javascript API, calling it XMLHttpRequest. Two years later Safari also implemented it.
 
 <div style='text-align: center'>
-  <img style='height: 200px' src='./ajax.svg' alt='Ajax'>
+  <img style='height: 200px' src='ajax.svg' alt='Ajax'>
 </div>
 
 The javascript support for XMLHttpRequest was instrumental in the set of technologies later known as Ajax, and it revolutionized the kind of apps that could be developed in Javascript.
@@ -78,14 +78,14 @@ At the same time, a group of developers in Mozilla was working on ASM.js: a subs
 The almost simultaneous effort from Google and Mozilla to compile C/C++ for the web made evident the need for a standard solution to this problem.
 
 <div style='text-align: center'>
-  <img style='height: 200px' src='./wa-logo.svg' alt='WebAssembly'>
+  <img style='height: 200px' src='wa-logo.svg' alt='WebAssembly'>
 </div>
 
 On June 17, 2015, Javascript creator Brandon Eich and Mozilla's Luke Wagner (one of the creators of ASM.js) announced the start of development of WebAssembly.
 
 It was something unprecedented and unexpected. The teams of the 4 main browser engines, which have a hard time agreeing on the semantic of CSS attributes, managed to reach an agreement with regards to a standard binary format for the Web: WebAssembly.
 
-Even more incredible was the speed of development. Less than a year later, on March 15, 2016, WebAssembly was demonstrated running Unity's Angry Bots [3] in Firefox, Google Chrome, and Microsoft Edge.
+Even more incredible was the speed of development. Less than a year later, on March 15, 2016, WebAssembly was demonstrated running [Unity's Angry Bots][3] in Firefox, Google Chrome, and Microsoft Edge.
 
 ### 2017
 
@@ -101,3 +101,4 @@ Stay tuned for a next article, where I'll discuss the future of WebAssembly.
 
 [1]: https://www.computer.org/csdl/mags/co/2012/02/mco2012020007.pdf
 [2]: https://web.archive.org/web/20070516090612/http://news.zdnet.co.uk/internet/0%2C1000000097%2C39211831%2C00.htm
+[3]: https://beta.unity3d.com/jonas/AngryBots/
