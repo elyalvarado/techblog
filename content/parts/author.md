@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. :hearts:
+**Ely Alvarado** CTO and co-founder of Happy the App. Long time Ruby, Javascript and Swift developer and systems administrator with automation background (Dev-Ops). Entrepreneur and Project Manager.
