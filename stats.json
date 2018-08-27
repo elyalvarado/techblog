@@ -1,0 +1,64 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-aa9570313651ef926b5a.js",
+      "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
+    ],
+    "path---": [
+      "path----e2cc063c3757122209a9.js",
+      "path----e2cc063c3757122209a9.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-4b19ffbe23a561043508.js",
+      "component---src-pages-contact-js-4b19ffbe23a561043508.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ab13b3e50077d973f2b7.js",
+      "component---src-layouts-index-js-ab13b3e50077d973f2b7.js.map"
+    ],
+    "path---index": [
+      "path---index-206ac74de0d3aab26f03.js",
+      "path---index-206ac74de0d3aab26f03.js.map"
+    ],
+    "commons": [
+      "commons-8331d8121d1df4731560.js",
+      "build-js-styles.css",
+      "commons-8331d8121d1df4731560.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-template-js": [
+      "component---src-templates-post-template-js-8a702a311c7a466566ba.js",
+      "component---src-templates-post-template-js-8a702a311c7a466566ba.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---finally-a-binary-web": [
+      "path---finally-a-binary-web-fda3b7ccc4412839d5e8.js",
+      "path---finally-a-binary-web-fda3b7ccc4412839d5e8.js.map"
+    ],
+    "app": [
+      "app-1f01cd8be292e92ccc8f.js",
+      "build-js-styles.css",
+      "app-1f01cd8be292e92ccc8f.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js",
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js.map"
+    ],
+    "path---about": [
+      "path---about-ea957c862ae3c1876f03.js",
+      "path---about-ea957c862ae3c1876f03.js.map"
+    ]
+  }
+}
