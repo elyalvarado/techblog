@@ -1842,7 +1842,7 @@ webpackJsonp([2],{
 	var debugEnviron;
 	exports.debuglog = function(set) {
 	  if (isUndefined(debugEnviron))
-	    debugEnviron = ({"NODE_ENV":"production","PUBLIC_DIR":"/Users/elyalvarado/Workspace/Personales/gatsby-starter-personal-blog/public"}).NODE_DEBUG || '';
+	    debugEnviron = ({"NODE_ENV":"production","PUBLIC_DIR":"/Users/elyalvarado/Workspace/Personales/blog/public"}).NODE_DEBUG || '';
 	  set = set.toUpperCase();
 	  if (!debugs[set]) {
 	    if (new RegExp('\\b' + set + '\\b', 'i').test(debugEnviron)) {
